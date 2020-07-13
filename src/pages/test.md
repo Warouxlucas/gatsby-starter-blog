@@ -2,7 +2,8 @@
 title: "wow incredible"
 date: "2020-10-13"
 ---
-i'm just curious about how rigourus this is
+i'm just curious about how rigourus this is.
+
 i'm also curious about how this is updating
 this is amazing!
 

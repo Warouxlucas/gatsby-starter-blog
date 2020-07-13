@@ -1,12 +1,15 @@
 import React from "react"
+import SEO from "../components/seo"
 import { css } from "@emotion/core"
 import { Link, graphql } from "gatsby"
 import { rhythm } from "../utils/typography"
 import Layout from "../components/layout"
 
+
 export default function Home({ data }) {
   return (
     <Layout>
+      <SEO title={"Panda Blog"} description={"amazing blog about pandas eating lots"} />
       <div>
         <h1
           css={css`
