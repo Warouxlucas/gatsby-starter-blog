@@ -3,7 +3,7 @@ title: "wow incredible"
 date: "2020-10-13"
 ---
 i'm just curious about how rigourus this is
-this is amezing!
+this is amazing!
 
 stuffff
 
